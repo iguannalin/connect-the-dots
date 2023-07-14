@@ -42,11 +42,11 @@ body {
   word-break: break-all;
   white-space: pre-line;
   overflow-wrap: anywhere;
-  font-size: 32px;
+  font-size: 28px;
   height: 330px;
   overflow-y: clip;
   overflow-x: clip;
-  width: 500px;
+  width: 350px;
   line-height: 36px;
 }
 
