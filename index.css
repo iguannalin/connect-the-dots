@@ -49,3 +49,13 @@ body {
   width: 500px;
   line-height: 36px;
 }
+
+a:active, a:hover, a:focus {
+  text-shadow: #858ebc -2px 2px 8px;
+  color: #f9faffde;
+}
+
+.grayed {
+  text-shadow: #656565 -2px 2px 8px;
+  color: #656565;
+}
